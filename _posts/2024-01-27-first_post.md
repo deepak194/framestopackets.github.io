@@ -13,6 +13,8 @@ tags: [IT]
 ```bash
 sudo apt get update
 ```
+> Use the copy icon to copy the code to clipboard.
+{: .prompt-tip }
 
 ```yaml
   prowlarr:
