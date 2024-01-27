@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome!"
-date: 2024-01-02
+date: 2024-01-27
 categories: [homelab] #tags and categories needs to be lowercase and separated by commas
 tags: [IT]
 ---
@@ -10,10 +10,8 @@ tags: [IT]
 
 **Hello world**, this is my first Jekyll blog post.
 
-```shell
-
+```bash
 sudo apt get update
-
 ```
 
 ```yaml
