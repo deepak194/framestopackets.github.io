@@ -6,8 +6,6 @@ categories: [homelab,arr's,prowlarr,radarr,sonarr,lidarr,jellyfin,readarr,bazarr
 tags: [homelab,arr's,prowlarr,radarr,sonarr,lidarr,jellyfin,readarr,bazarr,sabnzbd,qbittorrent,nzbhydra,usenet,homarr]
 ---
 
-# Building an automated media server on QNAP with all the Arr's
-
 > This guide and scripts are for educational purposes only, I do not encourage piracy.
 {: .prompt-tip }
 
