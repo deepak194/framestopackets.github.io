@@ -8,7 +8,7 @@ tags: [IT]
 
 # Welcome
 
-**Hello world**, this is my first Jekyll blog post.
+**Test Post**.
 
 ```bash
 sudo apt get update
